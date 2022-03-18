@@ -11,4 +11,4 @@ TestFile 文件夹：
 
 TestResult 文件夹：
   M，C1，C2 开头表示对应的码字序列检测结果
-  10，100，1000 表示将整个序列分成不同的子序列的个数，每个子序列 $\lfloor\frac{\text{totalBits}}{n}\rfloor$
+  10，100，1000 表示将整个序列分成不同的子序列的个数，每个子序列长度为 $\lfloor\frac{\text{totalBits}}{n}\rfloor$
